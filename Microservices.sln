@@ -26,6 +26,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "PhotoStock", "PhotoStock", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FreeCourse.Services.PhotoStock", "Services\PhotoStock\FreeCourse.Services.PhotoStock\FreeCourse.Services.PhotoStock.csproj", "{DFC47643-F1CC-4C69-9232-AC3FC447DD08}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Basket", "Basket", "{5F78B172-B17A-4B2F-9C23-92A388FA51A6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FreeCourse.Services.Basket", "Services\Basket\FreeCourse.Services.Basket\FreeCourse.Services.Basket.csproj", "{B4B933D7-E5BE-41BD-AD8A-CBF3CF8F66A4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -48,6 +52,10 @@ Global
 		{DFC47643-F1CC-4C69-9232-AC3FC447DD08}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DFC47643-F1CC-4C69-9232-AC3FC447DD08}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DFC47643-F1CC-4C69-9232-AC3FC447DD08}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B4B933D7-E5BE-41BD-AD8A-CBF3CF8F66A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4B933D7-E5BE-41BD-AD8A-CBF3CF8F66A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4B933D7-E5BE-41BD-AD8A-CBF3CF8F66A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4B933D7-E5BE-41BD-AD8A-CBF3CF8F66A4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -59,6 +67,8 @@ Global
 		{42ACA4BC-F964-4AD5-BFFD-F6E8FA9ED91A} = {42D7DF32-3044-4664-B701-6ADED5BBBF63}
 		{0CDADA0F-36E4-4140-A7E1-C5E9DF27EC91} = {E20DB040-6EE0-4C37-B173-A701C3B0360F}
 		{DFC47643-F1CC-4C69-9232-AC3FC447DD08} = {0CDADA0F-36E4-4140-A7E1-C5E9DF27EC91}
+		{5F78B172-B17A-4B2F-9C23-92A388FA51A6} = {E20DB040-6EE0-4C37-B173-A701C3B0360F}
+		{B4B933D7-E5BE-41BD-AD8A-CBF3CF8F66A4} = {5F78B172-B17A-4B2F-9C23-92A388FA51A6}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {C0731455-6E74-4EA7-9BFB-95AFE86C181D}
