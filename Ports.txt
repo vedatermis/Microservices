@@ -3,3 +3,4 @@ Services
 	-catalogAPI => 5011
 	-photoStockAPI => 5012
 	-basket => 5013
+	-discount => 5014
